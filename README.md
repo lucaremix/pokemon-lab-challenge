@@ -204,6 +204,6 @@ Pokémon sprites are loaded live from `pokemon.com`.
 
 ## 📝 Credits
 
-- ROM: **Sacred Gold** by [Drayano](https://gbatemp.net/threads/drayanos-hacks-latest-release-blaze-black-2-redux-volt-white-2-redux.405889/)
+- ROM: **Sacred Gold** by [Drayano](https://x.com/Drayano60)
 - Pokémon file format: [PKHeX](https://github.com/kwsch/PKHeX) by Kurt (kwsch)
 - Pokémon © 1995–2026 Nintendo / Game Freak
