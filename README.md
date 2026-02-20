@@ -16,12 +16,6 @@
   </a>
 </p>
 
-# 🧬 Pokémon Lab Challenge
-
-A companion web app for a custom challenge run of **Sacred Gold** (Drayano's HeartGold ROM hack). Instead of catching Pokémon in the wild, you *craft* them — earning materials by beating gym leaders and events, then assembling them in machines to build your team.
-
-Built with ASP.NET Core + vanilla JS. Runs as a native Windows app via WebView2.
-
 ---
 
 ## 🎮 How It Works
@@ -40,6 +34,10 @@ Beat an event → Claim rewards → Craft moves & Pokémon → Download .pk4 →
 
 ### Map (`index.html`)
 The Johto map with clickable event markers — gyms, rivals, Team Rocket encounters, special events. Each marker shows what rewards you'll get. Completed events turn grayscale.
+
+<p align="center">
+  <img src="assets/map.png" width="800" />
+</p>
 
 ### DNA Machine (`machine.html`)
 Two-phase Pokémon builder:
@@ -147,6 +145,9 @@ Open `http://localhost:5000`
 
 ```
 PokemonLabChallenge/
+├── assets/                         # GitHub README assets
+│   ├── logo.png
+│   └── map.png
 ├── PokemonLab/                     # ASP.NET Core backend
 │   ├── Controllers/
 │   │   └── DataController.cs       # REST API + .pk4 generator
