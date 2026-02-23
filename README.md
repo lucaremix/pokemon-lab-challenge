@@ -9,10 +9,6 @@
     <img src="https://img.shields.io/github/v/release/lucaremix/pokemon-lab-challenge?style=for-the-badge" />
   </a>
   
-  <a href="https://github.com/lucaremix/pokemon-lab-challenge/releases">
-    <img src="https://img.shields.io/github/downloads/lucaremix/pokemon-lab-challenge/total?style=for-the-badge" />
-  </a>
-  
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/license-All%20Rights%20Reserved-red?style=for-the-badge" />
   </a>
