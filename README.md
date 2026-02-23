@@ -3,6 +3,9 @@
 </p>
 
 <h1 align="center">Pokémon Lab Challenge</h1>
+![Version](https://img.shields.io/github/v/release/lucaremix/pokemon-lab-challenge?style=for-the-badge)
+![Downloads](https://img.shields.io/github/downloads/lucaremix/pokemon-lab-challenge/total?style=for-the-badge)
+![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red?style=for-the-badge)
 <p align="center">
   Companion app for a custom Sacred Gold challenge: craft Pokémon via lab systems and event rewards.
 </p>
