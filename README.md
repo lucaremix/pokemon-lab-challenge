@@ -5,7 +5,7 @@
 <h1 align="center">Pokémon Lab Challenge</h1>
 
 <p align="center">
-  <a href="https://github.com/lucaremix/pokemon-lab-challenge/releases">
+  <a href="https://github.com/lucaremix/pokemon-lab-challenge/releases/latest">
     <img src="https://img.shields.io/github/v/release/lucaremix/pokemon-lab-challenge?style=for-the-badge" />
   </a>
   
