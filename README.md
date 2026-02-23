@@ -14,15 +14,6 @@
   Companion app for a custom Sacred Gold challenge: craft Pokémon via lab systems and event rewards.
 </p>
 
-<p align="center">
-  <a href="https://github.com/lucaremix/pokemon-lab-challenge/releases/latest">
-    <img src="https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/lucaremix/pokemon-lab-challenge/releases">
-    <img src="https://img.shields.io/badge/Releases-All-lightgrey?style=for-the-badge" />
-  </a>
-</p>
-
 ---
 
 ## 🎮 How It Works
